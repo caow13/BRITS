@@ -1,5 +1,7 @@
 # README
 
+It is a pytorch implemention of paper "BRITS: Bidirectional Recurrent Imputation for Time Series, Wei Cao, Dong Wang, Jian Li, Hao Zhou, Lei Li Yitan Li. (NerIPS 2018)". The paper can be found here. http://papers.nips.cc/paper/7911-brits-bidirectional-recurrent-imputation-for-time-series
+
 To train the BRIST model, first please unzip the PhysioNet data into ***raw*** folder, including the label file ***Outcomes-a.txt***.
 
 To run the model:
